@@ -1,8 +1,5 @@
 /*
- * LEDBlinking.c
- *
- * Created: 6/21/2020 1:33:28 PM
- *  Author: Admin
+ * LEDBlINKING.c
  */ 
 
 
